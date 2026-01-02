@@ -1,0 +1,3 @@
+link: https://luarmor.net/v3/keys/d0b0b2c511df5e8dc7e11333f9a2c88778eed52f1fdf141469cd/stats?noUsers=true
+
+{"success":true,"message":"Success!","execution_data":{"frequency":86400,"executions":[0]},"stats":{"obfuscations":2,"scripts":2,"default":{"scripts":2,"users":200,"obfuscations":1000},"reset_at":1767132321}}
